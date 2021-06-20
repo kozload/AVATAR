@@ -1,2 +1,20 @@
 # ÅVATAR
 Åugmented Virtual (health) dATA manageR
+
+![that](./ppt/1.png)
+![that](./ppt/2.png)
+![that](./ppt/3.png)
+![that](./ppt/4.png)
+![that](./ppt/5.png)
+![that](./ppt/6.png)
+![that](./ppt/7.png)
+![that](./ppt/8.png)
+![that](./ppt/9.png)
+![that](./ppt/10.png)
+![that](./ppt/11.png)
+![that](./ppt/12.png)
+![that](./ppt/13.png)
+![that](./ppt/14.png)
+![that](./ppt/15.png)
+![that](./ppt/16.png)
+![that](./ppt/17.png)
