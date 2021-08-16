@@ -1,7 +1,7 @@
 
 Table of Content
 ================
-* [Åffix-ID-tattoo](#Åffix-ID-tattoo)
+* [ÅVATAR](#Åugmented Virtual (health) dATA manageR)
   * [Product Concept](#Product-Concept)
   * [Design](#Design)
 
