@@ -1,11 +1,3 @@
-
-Table of Content
-================
-* [ÅVATAR](#Åugmented Virtual (health) dATA manageR)
-  * [Product Concept](#Product-Concept)
-  * [Design](#Design)
-
-
 # ÅVATAR
 ### Åugmented Virtual (health) dATA manageR
 
