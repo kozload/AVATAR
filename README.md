@@ -1,7 +1,7 @@
 # ÅVATAR
 ### Åugmented Virtual (health) dATA manageR
 
-##### **Author:** [Adam Kozlowski](https://github.com/kozload)
+##### **Author:** [Adam Kozlowski](https://kozload.github.io/)
 
 ## Rationale
 I have faith in individuals willing to be WELL- informed, educated, advised and confident in, generally speaking, the conscience of one’s data. Their participation in the decision-making process is essential.
